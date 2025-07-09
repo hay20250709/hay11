@@ -10,4 +10,4 @@
 
 在这些资源站点中，用户可以快速找到自己感兴趣的影片，内容涵盖了国产、日韩及欧美的精品影片。网站支持高清视频播放，并且无需等待即可开始观看，带来流畅的体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hay20250709/hay11 ）</span>
